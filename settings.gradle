@@ -1,2 +1,2 @@
-include ':app', ':matebutton', ':matetoast'
+include ':app', ':library'
 rootProject.name = "TestApp"
